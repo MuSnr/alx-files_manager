@@ -125,11 +125,11 @@ cd 0x02-Session_authentication
 <!---->
 
 # :man: Author and Credits.
-This project was done by [SE. Richard Miruka](https://github.com/RichardMiruka). Feel free to get intouch with me;
+This project was done by [SE. Caleb Musau](https://github.com/MuSnr). Feel free to get intouch with me;
 
-:iphone: WhatsApp [+254700129706](https://wa.me/254700129706)
+:iphone: WhatsApp [+2540791072861](https://wa.me/2540791072861)
 
-:email: Email [richardmiruka96@gmail.com](mailto:richardmiruka96@gmail.com)
+:email: Email [calebmuteti4@gmail.com.com](mailto:calebmuteti4@mail.com@gmail.com)
 
 :thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
 
